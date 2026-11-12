@@ -9,5 +9,4 @@ To repozytorium jest publiczne i służy tylko jako tymczasowy magazyn plików (
 
 Układ:
 
-- `media/RRRR-MM/` – pliki do zaplanowanych postów
-- `test/` – klip techniczny do sprawdzania połączenia (bez treści marki)
+- `media/RRRR-MM/` – pliki do zaplanowanych postów (puste, gdy nic nie czeka na publikację)
